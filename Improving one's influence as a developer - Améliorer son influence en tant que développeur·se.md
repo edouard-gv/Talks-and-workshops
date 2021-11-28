@@ -1,4 +1,4 @@
-## La CNV et l'écoute active dans le quotidien d'un ou d'une développeuse.
+## La CNV et l'écoute active dans le quotidien d'un ou d'une développeuse
 A l'opposer de la manipulation, l'atelier propose comment mieux écouter et exprimer ses besoins en tant que développeur ou développeuse, et ainsi permettre d'améliorer son influence. En effet, sa position de jeune professionnel·le de donne pas forcément beaucoup de pouvoir officiel, de légitimité, ce en quoi améliorer l’influence peut vous aider.
 Cet atelier propose deux séquences de mises en situation :
 -	Mieux écouter, en prenant soin de l’autre (en se protégeant soi) : quelques éléments d’écoute active.
